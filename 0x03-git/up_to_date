@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 touch 0x03-git/up_to_date
+=======
+touch up_to_date
+git pull origin master
+>>>>>>> e16f7ba4579055771ab8f1affb03718332c4d42e
